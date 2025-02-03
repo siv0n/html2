@@ -1,1 +1,1 @@
-# mctc-html2
+# html2
